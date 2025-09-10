@@ -32,7 +32,7 @@ I invest a lot of time and effort in open-source. If you like this project, plea
 
 ```bash
 # Clone or download the repo
-git clone https://github.com/rahulhaque/soketi-app-manager-filament.git
+git clone https://github.com/ardifx01/soketi-app-manager-filament.git
 
 # Go to the directory
 cd soketi-app-manager-filament
@@ -69,7 +69,7 @@ Some considerations -
 
 ```bash
 # Clone or download the repo
-git clone https://github.com/rahulhaque/soketi-app-manager-filament.git
+git clone https://github.com/ardifx01/soketi-app-manager-filament.git
 
 # Go to the directory
 cd soketi-app-manager-filament
